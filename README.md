@@ -2,19 +2,59 @@
 
 This repository contains the tasks completed during the CodeAlpha DevOps Internship.
 
-## Completed Tasks
+---
 
-### 1. Docker Web Server
-A multi-page website deployed using Docker and Nginx.
+# Completed Tasks
 
-#### Features
-- Multi-page website
-- Responsive design
+## TASK 1 - CI/CD Pipeline using GitHub Actions
+
+Implemented a CI/CD pipeline using GitHub Actions for automated Docker image building and workflow execution.
+
+### Features
+- Automated CI/CD workflow
+- GitHub Actions integration
+- Automatic Docker image build
+- Pipeline monitoring with workflow status
+- Continuous Integration setup
+
+### Technologies Used
+- GitHub Actions
+- Docker
+- GitHub
+- YAML
+
+---
+
+## TASK 3 - Java Application using Gradle
+
+Created and built a Java application using Gradle build automation.
+
+### Features
+- Java project setup
+- Gradle build automation
+- Dependency management
+- Successful project compilation
+- Organized project structure
+
+### Technologies Used
+- Java
+- Gradle
+- GitHub
+
+---
+
+## TASK 4 - Web Server using Docker
+
+Developed and deployed a multi-page website using Docker and Nginx.
+
+### Features
+- Multi-page responsive website
 - Docker container deployment
 - Nginx web server
 - HTML and CSS styling
+- Containerized web application
 
-#### Technologies Used
+### Technologies Used
 - Docker
 - Nginx
 - HTML
@@ -23,23 +63,7 @@ A multi-page website deployed using Docker and Nginx.
 
 ---
 
-### 2. Java Gradle Project
-A simple Java application built and managed using Gradle.
-
-#### Features
-- Java application setup
-- Gradle build automation
-- Successful project build
-- Organized project structure
-
-#### Technologies Used
-- Java
-- Gradle
-- GitHub
-
----
-
-## Repository Structure
+# Repository Structure
 
 codealpha_tasks
 │
@@ -51,7 +75,16 @@ codealpha_tasks
 
 ---
 
-## Author
+# CI/CD Workflow
+
+The GitHub Actions workflow automatically:
+- Detects code pushes to the main branch
+- Builds Docker images automatically
+- Verifies successful pipeline execution
+
+---
+
+# Author
 
 Sakthi  
 CodeAlpha DevOps Intern
