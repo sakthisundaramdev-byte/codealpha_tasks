@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeAlpha DevOps Internship Tasks
 
 This repository contains the tasks completed during the CodeAlpha DevOps Internship.
@@ -21,3 +22,7 @@ Java project build automation using Gradle.
 
 ## Author
 Sakthi
+=======
+# codealpha_tasks
+CodeAlpha DevOps Internship Tasks by Sakthi
+>>>>>>> bb99b1c1269e66b9be41d07e9eaa0196f967025c
