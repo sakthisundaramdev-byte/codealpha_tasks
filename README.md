@@ -2,26 +2,56 @@
 
 This repository contains the tasks completed during the CodeAlpha DevOps Internship.
 
-## Tasks
+## Completed Tasks
 
-### Task 1 - Docker Web Server
+### 1. Docker Web Server
 A multi-page website deployed using Docker and Nginx.
 
-### Task 2 - Java Gradle Project
-Java project build automation using Gradle.
+#### Features
+- Multi-page website
+- Responsive design
+- Docker container deployment
+- Nginx web server
+- HTML and CSS styling
 
-## Technologies Used
+#### Technologies Used
 - Docker
 - Nginx
 - HTML
 - CSS
 - GitHub
+
+---
+
+### 2. Java Gradle Project
+A simple Java application built and managed using Gradle.
+
+#### Features
+- Java application setup
+- Gradle build automation
+- Successful project build
+- Organized project structure
+
+#### Technologies Used
 - Java
 - Gradle
+- GitHub
+
+---
+
+## Repository Structure
+
+codealpha_tasks
+│
+├── CodeAlpha_Docker_WebServer
+│
+├── CodeAlpha_Java_Gradle
+│
+└── README.md
+
+---
 
 ## Author
-Sakthi
-=======
-# codealpha_tasks
-CodeAlpha DevOps Internship Tasks by Sakthisundaram M
 
+Sakthi  
+CodeAlpha DevOps Intern
